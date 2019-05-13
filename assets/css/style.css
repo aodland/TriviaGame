@@ -5,7 +5,7 @@ body{
 
 #container{
     margin : 20px auto;
-    background-color: white;
+    background-color: blue;
     height: 300px;
     width : 700px;
     border-radius: 5px;
@@ -18,7 +18,7 @@ body{
     word-break: break-all;
     width:100px;
     height:150px;
-    border : 2px solid lightgrey;
+    border : 2px solid black;
     text-align: center;
     cursor: pointer;
     position: absolute;
@@ -68,13 +68,13 @@ body{
     display: inline-block;
     width : 135px;
     text-align: center;
-    border : 1px solid grey;
+    border : 1px solid black;
     border-radius: 5px;
     cursor: pointer;
     padding : 5px;
 }
 .choice:hover{
-    border : 2px solid grey;
+    border : 2px solid black;
     font-weight: bold;
 }
 
